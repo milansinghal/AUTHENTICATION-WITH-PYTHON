@@ -1,3 +1,8 @@
+#MILAN SINGHAL
+#22-04-2023
+#FIREBASE AUTHENTICATION SYSTEM USING PYTHON
+
+
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import auth
